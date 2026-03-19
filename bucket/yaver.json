@@ -1,12 +1,12 @@
 {
-    "version": "1.31.0",
+    "version": "1.32.0",
     "description": "Run AI coding agents from your phone — Claude, Codex, Aider, or custom",
     "homepage": "https://yaver.io",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kivanccakmak/yaver-cli/releases/download/v1.31.0/yaver-windows-amd64.exe",
-            "hash": "a083b62c9d6043beb046057bc8573f857ffee6d27830daf633c6cf47e981e561"
+            "url": "https://github.com/kivanccakmak/yaver-cli/releases/download/v1.32.0/yaver-windows-amd64.exe",
+            "hash": "7d3aebb9ff1eca2d116cf64eec7d296111259837a5e992a78a2f808e129f67a3"
         }
     },
     "bin": [["yaver-windows-amd64.exe", "yaver"]],
