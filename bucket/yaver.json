@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/kivanccakmak/yaver-cli/releases/download/v1.37.0/yaver-windows-amd64.exe",
-            "hash": "b9fe2f78e8518f1f08a86e929c336924144b5e0d6e133866e5918c62efa7218d"
+            "hash": "c30df6a021bbf9e6063543547128c1378c4735115a6223a44bdc7b3d2d125ee1"
         }
     },
     "bin": [
