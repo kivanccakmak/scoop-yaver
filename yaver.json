@@ -1,1 +1,23 @@
-{"version":"1.73.0","description":"AI coding agent on your phone","homepage":"https://yaver.io","license":"MIT","architecture":{"64bit":{"url":"https://github.com/kivanccakmak/yaver.io/releases/download/v1.73.0/yaver-windows-amd64.exe","hash":"82db7212f8c2d250038a7889026a7a52f73fbfb211bff6485631f07df33651e7"}},"bin":[["yaver-windows-amd64.exe","yaver"]],"checkver":{"github":"https://github.com/kivanccakmak/yaver.io"},"autoupdate":{"architecture":{"64bit":{"url":"https://github.com/kivanccakmak/yaver.io/releases/download/v$version/yaver-windows-amd64.exe"}}}}
+{
+  "version": "1.75.0",
+  "description": "AI coding agent on your phone — P2P remote control for Claude Code, Codex, Aider, Ollama",
+  "homepage": "https://yaver.io",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/kivanccakmak/yaver.io/releases/download/v1.75.0/yaver-windows-amd64.exe",
+      "hash": "2db1f3505083f9569f6a1e0dae8b570dffe97d81ab857c3505642d057fe5c796"
+    }
+  },
+  "bin": [["yaver-windows-amd64.exe", "yaver"]],
+  "checkver": {
+    "github": "https://github.com/kivanccakmak/yaver.io"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/kivanccakmak/yaver.io/releases/download/v$version/yaver-windows-amd64.exe"
+      }
+    }
+  }
+}
