@@ -1,12 +1,12 @@
 {
-  "version": "1.99.100",
+  "version": "1.99.101",
   "description": "AI coding agent on your phone — P2P remote control for Claude Code, Codex, Aider, Ollama",
   "homepage": "https://yaver.io",
   "license": "FSL-1.1-Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kivanccakmak/yaver.io/releases/download/v1.99.100/yaver-windows-amd64.exe",
-      "hash": "65a21e49be149bb1c165adc14fbcbaee69033372d8bea66a84e582fd589d76c7"
+      "url": "https://github.com/kivanccakmak/yaver.io/releases/download/v1.99.101/yaver-windows-amd64.exe",
+      "hash": "eda7c1d32d2f9d26e8a0cb344323595f30a591e8cc221c8980d3cd26f1a187e3"
     }
   },
   "bin": [["yaver-windows-amd64.exe", "yaver"]],
